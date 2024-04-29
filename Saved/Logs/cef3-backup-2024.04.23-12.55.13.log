@@ -1,0 +1,2 @@
+[0423/145303.164:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clé non valide pour l’utilisation dans l’état spécifié. (0x8009000B)
+[0423/145503.394:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
