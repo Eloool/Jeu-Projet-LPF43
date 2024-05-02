@@ -1,3 +1,6 @@
-2024/04/29-11:55:22.370 6750 Reusing MANIFEST C:/Users/E-lol/Documents/cours/LPF43/Jeu/Jeu_LpF43/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/04/29-11:55:22.392 6750 Recovering log #3
-2024/04/29-11:55:22.393 6750 Reusing old log C:/Users/E-lol/Documents/cours/LPF43/Jeu/Jeu_LpF43/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/05/02-11:32:17.893 79a4 Reusing MANIFEST C:/Users/E-lol/Documents/GitHub/Jeu_LpF43/Jeu-Projet-LPF43/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/05/02-11:32:17.915 79a4 Recovering log #3
+2024/05/02-11:32:17.916 79a4 Reusing old log C:/Users/E-lol/Documents/GitHub/Jeu_LpF43/Jeu-Projet-LPF43/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/05/02-11:35:00.752 79a4 Level-0 table #5: started
+2024/05/02-11:35:00.765 79a4 Level-0 table #5: 17478 bytes OK
+2024/05/02-11:35:00.767 79a4 Delete type=0 #3

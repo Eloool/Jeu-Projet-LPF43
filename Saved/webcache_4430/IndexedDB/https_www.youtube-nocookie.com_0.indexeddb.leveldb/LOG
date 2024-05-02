@@ -1,6 +1,3 @@
-2024/04/23-15:01:44.662 5ba0 Creating DB G:/Autres ordinateurs/Mon ordinateur portable (1)/cours/LPF43/Jeu/Jeu_LpF43/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/04/23-15:01:44.695 5ba0 Reusing MANIFEST G:/Autres ordinateurs/Mon ordinateur portable (1)/cours/LPF43/Jeu/Jeu_LpF43/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/04/23-16:21:18.393 4f78 Level-0 table #5: started
-2024/04/23-16:21:18.403 4f78 Level-0 table #5: 1211 bytes OK
-2024/04/23-16:21:18.407 4f78 Delete type=0 #3
-2024/04/23-16:21:18.409 4f78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/02-11:34:03.651 3230 Reusing MANIFEST C:/Users/E-lol/Documents/GitHub/Jeu_LpF43/Jeu-Projet-LPF43/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/02-11:34:03.652 3230 Recovering log #7
+2024/05/02-11:34:03.652 3230 Reusing old log C:/Users/E-lol/Documents/GitHub/Jeu_LpF43/Jeu-Projet-LPF43/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 

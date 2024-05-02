@@ -1,0 +1,8 @@
+2024/05/02-11:34:01.216 1d20 Reusing MANIFEST C:/Users/E-lol/Documents/GitHub/Jeu_LpF43/Jeu-Projet-LPF43/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/02-11:34:01.216 1d20 Recovering log #4
+2024/05/02-11:34:01.216 1d20 Reusing old log C:/Users/E-lol/Documents/GitHub/Jeu_LpF43/Jeu-Projet-LPF43/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/05/02-11:34:03.522 1d20 Level-0 table #8: started
+2024/05/02-11:34:03.522 1d20 Level-0 table #8: 0 bytes OK
+2024/05/02-11:34:03.524 1d20 Delete type=0 #4
+2024/05/02-11:34:03.526 1d20 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/02-11:34:03.526 1d20 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
