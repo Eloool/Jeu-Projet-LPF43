@@ -1774,3 +1774,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.21-14.27.44:298][359]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Jeu.Jeu:PersistentLevel.StaticMeshActor_UAID_7C8AE1A29CC5C1F701_2131538970
 [2024.05.21-14.27.44:298][359]LogContentValidation: Display: Validating /Script/Engine.Material /Game/rosa/textures/Rosa_alb_Mat.Rosa_alb_Mat
 [2024.05.21-14.27.44:298][359]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Jeu.Jeu:PersistentLevel.ActorFolder_UID_550EBDC5-4E9D2B5A-9777E3BE-B51651FF
+[2024.05.21-14.31.52:038][178]LogHttp: Warning: 000004902DF5A000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.21-14.31.52:038][178]LogHttp: Warning: 000004902DF5A000: libcurl info message cache 0 (Connection 1 seems to be dead)
+[2024.05.21-14.31.52:038][178]LogHttp: Warning: 000004902DF5A000: libcurl info message cache 1 (Closing connection)
+[2024.05.21-14.31.52:038][178]LogHttp: Warning: 000004902DF5A000: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2024.05.21-14.31.52:038][178]LogHttp: Warning: 000004902DF5A000: libcurl info message cache 3 (Send failure: Connection was reset)
+[2024.05.21-14.31.52:038][178]LogHttp: Warning: 000004902DF5A000: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2024.05.21-14.31.52:038][178]LogHttp: Warning: 000004902DF5A000: libcurl info message cache 5 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.21-14.31.52:038][178]LogHttp: Warning: 000004902DF5A000: libcurl info message cache 6 (Closing connection)
+[2024.05.21-14.31.52:038][178]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BADB0DCC2-47DD-6B00-D662-E9B8B527D845%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=17b485ab47093ed7ced880813e78f028%7Caa49e134b3e54eefa8b54431941bb534%7C77ba9711-8870-42d4-9293-e9faefaf3593&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.21-14.32.52:048][358]LogHttp: Warning: 000004902DF5A000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.21-14.32.52:048][358]LogHttp: Warning: 000004902DF5A000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.21-14.32.52:049][358]LogHttp: Warning: 000004902DF5A000: libcurl info message cache 1 (Closing connection)
+[2024.05.21-14.32.52:049][358]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BADB0DCC2-47DD-6B00-D662-E9B8B527D845%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=17b485ab47093ed7ced880813e78f028%7Caa49e134b3e54eefa8b54431941bb534%7C77ba9711-8870-42d4-9293-e9faefaf3593&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.21-14.33.52:053][538]LogHttp: Warning: 000004902DF5A000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.21-14.33.52:053][538]LogHttp: Warning: 000004902DF5A000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.21-14.33.52:053][538]LogHttp: Warning: 000004902DF5A000: libcurl info message cache 1 (Closing connection)
+[2024.05.21-14.33.52:053][538]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BADB0DCC2-47DD-6B00-D662-E9B8B527D845%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=17b485ab47093ed7ced880813e78f028%7Caa49e134b3e54eefa8b54431941bb534%7C77ba9711-8870-42d4-9293-e9faefaf3593&AppEnvironment=datacollector-binary&UploadType=eteventstream
